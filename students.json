@@ -1,4 +1,4 @@
-const STUDENTS = [
+[
   {sno:"1",reg:"09BEE203",name:"Vignesh D",g:"M",district:"Ariyalur",branch:"B.Tech. Electrical and Electronics Engineering",school:"SELECT",batch:"2009"},
   {sno:"2",reg:"09BCL132",name:"Prema B",g:"F",district:"Ariyalur",branch:"B.Tech. Civil Engineering",school:"SCALE",batch:"2009"},
   {sno:"3",reg:"10BCL0175",name:"Prabaharan V",g:"M",district:"Ariyalur",branch:"B.Tech. Civil Engineering",school:"SCALE",batch:"2010"},
