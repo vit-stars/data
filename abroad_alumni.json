@@ -416,5 +416,38 @@
     "country": "United Arab Emirates",
     "batch": "2021",
     "photo": "https://raw.githubusercontent.com/vit-stars/data/main/photos/Karthik_M_2021.jpg"
+  },
+   {
+    "name": "Hamim Irfana M",
+    "gender": "F",
+    "district": "Tutucorin",
+    "company": "Not available",
+    "designation": "Not available",
+    "location": "",
+    "country": "Qatar",
+    "batch": "2013",
+    "photo": "https://raw.githubusercontent.com/vit-stars/data/main/photos/Hamim_Irfana_M_2013.jpg"
+  },
+   {
+    "name": "Ramees Ahamed S",
+    "gender": "M",
+    "district": "Tiruvarur",
+    "company": "Vistas Global",
+    "designation": "Project Manager",
+    "location": "",
+    "country": "Qatar",
+    "batch": "2013",
+    "photo": "https://raw.githubusercontent.com/vit-stars/data/main/photos/Ramees_Ahamed_S_2013.jpg"
+  },
+  {
+    "name": "Prabaharan V",
+    "gender": "M",
+    "district": "Ariyalur",
+    "company": "Al Nadha Al Omaniah",
+    "designation": "QS Engineer",
+    "location": "Nizwa",
+    "country": "Oman",
+    "batch": "2010",
+    "photo": "https://raw.githubusercontent.com/vit-stars/data/main/photos/Prabaharan_V_2010.jpg"
   }
 ]
