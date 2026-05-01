@@ -1,0 +1,49 @@
+name: Sync Public Data
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout private repo
+      - name: Checkout private repo
+        uses: actions/checkout@v3
+
+      # 2. Install jq (for filtering JSON)
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      # 3. Create public.json (ONLY SAFE DATA)
+      - name: Create public.json
+        run: |
+          cat data.json | jq '{publicInfo}' > public.json
+
+      # 4. Push to multiple public repos
+      - name: Push to public repositories
+        run: |
+          for repo in stars-student vit-abroad-alumni
+          do
+            echo "Updating $repo..."
+
+            git clone https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/vit-stars/$repo.git
+
+            cd $repo
+
+            cp ../public.json public.json
+
+            git config user.name "github-actions"
+            git config user.email "actions@github.com"
+
+            git add public.json
+
+            # Commit only if there are changes
+            git diff --quiet && git diff --staged --quiet || git commit -m "Update public data"
+
+            git push
+
+            cd ..
+          done
