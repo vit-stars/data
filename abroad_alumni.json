@@ -109,6 +109,18 @@
     "batch": "2010",
     "photo": "https://raw.githubusercontent.com/vit-stars/data/main/photos/Fairose_Farveen_A_2010.jpg"
   },
+  
+  {
+    "name": "Prabaharan V",
+    "gender": "M",
+    "district": "Ariyalur",
+    "company": "Al Nadha Al Omaniah",
+    "designation": "QS Engineer",
+    "location": "Nizwa",
+    "country": "Oman",
+    "batch": "2010",
+    "photo": "https://raw.githubusercontent.com/vit-stars/data/main/photos/Prabaharan_V_2010.jpg"
+  },
   {
     "name": "Nadhiya G",
     "gender": "F",
@@ -242,6 +254,28 @@
     "photo": "https://raw.githubusercontent.com/vit-stars/data/main/photos/Lenin_B_2012.jpg"
   },
   {
+    "name": "Hamim Irfana M",
+    "gender": "F",
+    "district": "Tutucorin",
+    "company": "Not available",
+    "designation": "Not available",
+    "location": "",
+    "country": "Qatar",
+    "batch": "2013",
+    "photo": "https://raw.githubusercontent.com/vit-stars/data/main/photos/Hamim_Irfana_M_2013.jpg"
+  },
+   {
+    "name": "Ramees Ahamed S",
+    "gender": "M",
+    "district": "Tiruvarur",
+    "company": "Vistas Global",
+    "designation": "Project Manager",
+    "location": "",
+    "country": "Qatar",
+    "batch": "2013",
+    "photo": "https://raw.githubusercontent.com/vit-stars/data/main/photos/Ramees_Ahamed_S_2013.jpg"
+  },
+  {
     "name": "Sarukhan H",
     "gender": "M",
     "district": "Pudukkottai",
@@ -330,6 +364,17 @@
     "photo": "https://raw.githubusercontent.com/vit-stars/data/main/photos/Madhu_Mitha_S_2014.jpg"
   },
   {
+    "name":"Karthick K",
+    "gender": "M",
+    "district": "Namakkal",
+    "company": "Recaro Aircraft Seating GmbH",
+    "designation": "Module Design Engineer",
+    "location": "",
+    "country": "Germany",
+    "batch": "2014",
+    "photo": "https://raw.githubusercontent.com/vit-stars/data/main/photos/Karthick_K_2014.jpg"
+  },
+  {
     "name": "Bhuvanesh T",
     "gender": "M",
     "district": "Namakkal",
@@ -361,6 +406,17 @@
     "country": "Japan",
     "batch": "2015",
     "photo": "https://raw.githubusercontent.com/vit-stars/data/main/photos/Malathi_R_2015.jpg"
+  },
+  {
+    "name": "Sangeetha G",
+    "gender": "F",
+    "district": "Trichy",
+    "company": "TEMENOS",
+    "designation": "Senior Consultant",
+    "location": "",
+    "country": "Egypt",
+    "batch": "2015",
+    "photo": "https://raw.githubusercontent.com/vit-stars/data/main/photos/Sangeetha_G_2015.jpg"
   },
   {
     "name": "Baskar C",
@@ -417,37 +473,5 @@
     "batch": "2021",
     "photo": "https://raw.githubusercontent.com/vit-stars/data/main/photos/Karthik_M_2021.jpg"
   },
-   {
-    "name": "Hamim Irfana M",
-    "gender": "F",
-    "district": "Tutucorin",
-    "company": "Not available",
-    "designation": "Not available",
-    "location": "",
-    "country": "Qatar",
-    "batch": "2013",
-    "photo": "https://raw.githubusercontent.com/vit-stars/data/main/photos/Hamim_Irfana_M_2013.jpg"
-  },
-   {
-    "name": "Ramees Ahamed S",
-    "gender": "M",
-    "district": "Tiruvarur",
-    "company": "Vistas Global",
-    "designation": "Project Manager",
-    "location": "",
-    "country": "Qatar",
-    "batch": "2013",
-    "photo": "https://raw.githubusercontent.com/vit-stars/data/main/photos/Ramees_Ahamed_S_2013.jpg"
-  },
-  {
-    "name": "Prabaharan V",
-    "gender": "M",
-    "district": "Ariyalur",
-    "company": "Al Nadha Al Omaniah",
-    "designation": "QS Engineer",
-    "location": "Nizwa",
-    "country": "Oman",
-    "batch": "2010",
-    "photo": "https://raw.githubusercontent.com/vit-stars/data/main/photos/Prabaharan_V_2010.jpg"
-  }
+  
 ]
