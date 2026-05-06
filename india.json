@@ -6710,6 +6710,16 @@
     "state": "Telangana"
   },
   {
+    "name": "Thamizharasan M",
+    "gender": "M",
+    "batch": "2019",
+    "district": "Theni",
+    "company": "Indian Army",
+    "designation": "-",
+    "location": "Kashmir ",
+    "state": "Jammu and Kashmir"
+  },
+  {
     "name": "Priyadharshini A J",
     "gender": "F",
     "batch": "2016",
@@ -6967,7 +6977,7 @@
     "company": "Keller Ground Engnieering India Pvt Ltd",
     "designation": "Project Engineer",
     "location": "Pan India",
-    "state": "Tamil Nadu"
+    "state": "Tamilnadu"
   },
   {
     "name": "Janarthanan M",
@@ -6977,7 +6987,7 @@
     "company": "KWA Analytics",
     "designation": "Senior Consultant",
     "location": "Work from Home",
-    "state": "Tamil Nadu"
+    "state": "Tamilnadu"
   },
   {
     "name": "Nagarajan S",
@@ -6987,7 +6997,7 @@
     "company": "Softility Tech Pvt Ltd",
     "designation": "Consultancy",
     "location": "Remotely",
-    "state": "Tamil Nadu"
+    "state": "Tamilnadu"
   },
   {
     "name": "Naveenkumar P",
@@ -6997,6 +7007,6 @@
     "company": "Salasforce",
     "designation": "Lead Developer",
     "location": "Work From Home",
-    "state": "Tamil Nadu"
+    "state": "Tamilnadu"
   }
 ]
